@@ -1,0 +1,7 @@
+{
+  "routes": [
+    { "path": "/", "title": "DopaTrack — Pause, then choose" },
+    { "path": "/menu", "title": "Menu — DopaTrack" },
+    { "path": "/audit", "title": "Dopamine Audit — DopaTrack" }
+  ]
+}
